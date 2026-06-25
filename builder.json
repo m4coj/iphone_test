@@ -1,0 +1,17 @@
+{
+  "project": "iphone_test",
+  "platform": "ios",
+  "github": {
+    "owner": "m4coj",
+    "repo": "iphone_test"
+  },
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {
+    "version": "3.44.3",
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
